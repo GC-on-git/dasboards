@@ -1,2 +1,2 @@
-# Tableau_projects
-A set of tableau projects.
+# DASBOARDS
+A set of dashboard projects made using tableau and Excel.
